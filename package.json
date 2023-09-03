@@ -1,0 +1,30 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "Web Crawler",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preyalameta02/Web-Crawler.git"
+  },
+  "keywords": [
+    "Web",
+    "Crawler"
+  ],
+  "author": "Preyal Ameta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/preyalameta02/Web-Crawler/issues"
+  },
+  "homepage": "https://github.com/preyalameta02/Web-Crawler#readme",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  },
+  "dependencies": {
+    "jsdom": "^22.1.0"
+  }
+}
